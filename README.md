@@ -1,4 +1,10 @@
 # 基于springboot的游戏社区系统
+
+需要项目可以添加小羊微信
+微信：ShaunXiaoYangOvO
+或关注小红书账号：95677443851
+<img width="493" height="389" alt="image" src="https://github.com/user-attachments/assets/b25f7c04-b046-42f0-8c53-0e72e35ce3af" />
+
 项目分析
 一、项目概述
 这是一个基于SpringBoot和Vue3的前后端分离游戏社区平台，提供游戏展示、购买、社区讨论、即时聊天等完整功能。
