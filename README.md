@@ -92,5 +92,13 @@ WebSocket实现私信聊天
 配置化管理：支持不同环境配置（开发、测试、生产）
 插件化扩展：支付、文件上传等功能采用插件化设计
 这个项目涵盖了现代Web应用开发的核心功能，具有完整的业务流程和良好的代码结构，是一个功能丰富、技术栈完整的游戏社区平台。
+<img width="3138" height="1742" alt="cc0fbab7452a5bd79f911fa08522d013" src="https://github.com/user-attachments/assets/d793ce72-c0cd-4cbc-9ce9-a7c22732bea0" />
+<img width="3084" height="1650" alt="e33879c9f4b6b892cd892316455bd882" src="https://github.com/user-attachments/assets/cc4da541-0599-459a-b933-7f9c6cf81532" />
+<img width="3006" height="1786" alt="25dbb71ae2b58143532519c1191f35fa" src="https://github.com/user-attachments/assets/eac8dadb-5b6d-44a4-8774-eb3bb1114957" />
+<img width="3106" height="1688" alt="09c6df00548bf45ed1a3a009e1799de8" src="https://github.com/user-attachments/assets/7ebc4186-a36a-42fb-8627-cfb2009068f8" />
+<img width="3160" height="1762" alt="f2aa93fb2318a258788adb0c0e50f623" src="https://github.com/user-attachments/assets/43b4fb3b-c7ec-4799-a466-ea9d01607aa0" />
+<img width="3158" height="1652" alt="06ecffc3e34653fda833750ecd15cce4" src="https://github.com/user-attachments/assets/f88adb12-8037-4199-99ce-5905baad3132" />
+<img width="3160" height="1688" alt="3fe401e2dd086e3c53dacedf09f13332" src="https://github.com/user-attachments/assets/e3d8810f-7eb2-4968-94cc-89fad9ab10ed" />
+<img width="3198" height="1536" alt="4b6c3a393dd6e52543b4595c0852b56a" src="https://github.com/user-attachments/assets/fb25084e-04c3-478e-9ce3-8994b18ad94d" />
+<img width="3198" height="1494" alt="9368edd5d2f41cea0cceb29372e27603" src="https://github.com/user-attachments/assets/a1226d17-58ab-425d-b9d6-d06f7f66f158" />
 
-<img width="1080" height="1073" alt="07cde5ac52eb436faa3c676da12666b8~tplv-p14lwwcsbr-7" src="https://github.com/user-attachments/assets/9d8b872b-0b21-4662-9c4f-aed8553457e9" />
